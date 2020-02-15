@@ -1,0 +1,11 @@
+Package: xyz.skitty.stonks
+Name: Stonks
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Change all "Stocks" text to "Stonks"
+Depiction: https://skitty.xyz/repo/depictions/?p=xyz.skitty.stonks
+SileoDepiction: https://skitty.xyz/repo/depictions/?s=xyz.skitty.stonks
+Maintainer: Skitty
+Author: Skitty
+Section: Tweaks
